@@ -25,6 +25,6 @@ Currently learning **Python** to deepen my analytical and automation capabilitie
 
 ### Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 💼 [LinkedIn](www.linkedin.com/in/khikmatilla-teshaboev)
 - 📧 Email: khikmatilla.teshaboev@outlook.com
 - 📁 [Explore Portfolio](https://github.com/KhikmatillaTeshaboev/PORTFOLIO)
